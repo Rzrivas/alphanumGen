@@ -1,0 +1,9 @@
+-This is a small program that generates strings using 0-9 and a-z
+
+To run just use "java alphanumGen" in command line
+
+-It will request the length of key I've tested up to 5 and it 
+takes a few minutes
+-I originally used the program to output a text file for a
+dictionary attack where I knew the length of the key and characters
+-Now it just displays the keys
